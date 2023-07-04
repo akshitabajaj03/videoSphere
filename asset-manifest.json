@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/videoSphere/static/css/main.7064deb2.css",
+    "main.js": "/videoSphere/static/js/main.15e2753d.js",
+    "index.html": "/videoSphere/index.html",
+    "main.7064deb2.css.map": "/videoSphere/static/css/main.7064deb2.css.map",
+    "main.15e2753d.js.map": "/videoSphere/static/js/main.15e2753d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.15e2753d.js"
+  ]
+}
