@@ -9,7 +9,7 @@ const App=()=> (
       <Box sx={{backgroundColor: '#000'}}>
        <Navbar/>
        <Routes>
-        <Route exact path="/" element={<Feed/>} />
+        <Route exact path="/videoSphere/" element={<Feed/>} />
         <Route exact path="/video/:id" element={<VideoDetails/>} />
         <Route exact path="/channel/:id" element={<ChannelDetails/>} />
         <Route exact path="/search/:searchTerm" element={<SearchFeed/>} />
