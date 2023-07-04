@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/videoSphere/static/css/main.7064deb2.css",
-    "main.js": "/videoSphere/static/js/main.dc1ed3d5.js",
+    "main.js": "/videoSphere/static/js/main.9d6676a3.js",
     "index.html": "/videoSphere/index.html",
     "main.7064deb2.css.map": "/videoSphere/static/css/main.7064deb2.css.map",
-    "main.dc1ed3d5.js.map": "/videoSphere/static/js/main.dc1ed3d5.js.map"
+    "main.9d6676a3.js.map": "/videoSphere/static/js/main.9d6676a3.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
-    "static/js/main.dc1ed3d5.js"
+    "static/js/main.9d6676a3.js"
   ]
 }
